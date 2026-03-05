@@ -13,7 +13,6 @@ Go check his website : https://www.demystify-color.com/.
   - RBF_Solver
 - [Usage](#usage)
 - [Requirements](#requirements)
-- [Contributing](#contributing)
 
 ## Installation
 
