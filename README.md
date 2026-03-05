@@ -77,7 +77,7 @@ CSV layout  →  R,G,B  (one row per patch)
 
 ### RBF_Solver
 
-This tool creates a .cube 3D LUT based on two CSV datasets. The (#Get_Colourchecker_RGB_Data) script featured in this repo is usefull for creating the CSVs.
+This tool creates a .cube 3D LUT based on two CSV datasets. The [Get_Colourchecker_RGB_Data] script featured in this repo is usefull for creating the CSVs.
 
 Radial Basis Function (RBF) interpolation enables creation of a smooth 3D LUT to map complex color datasets, capturing nonlinear responses which is ideal for matching
 film to digital.
