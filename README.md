@@ -16,11 +16,7 @@ Go check his website : https://www.demystify-color.com/.
 
 ## Installation
 
-Clone this repository:
-```
-git clone https://github.com/Alexandre-LeNormand/Negative-Film-profiling-python-tools.git
-cd Negative-Film-profiling-python-tools
-```
+Clone this repository.
 
 Install dependencies:
 ```
